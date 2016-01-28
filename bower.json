@@ -1,0 +1,27 @@
+{
+  "name": "rochebrune2016",
+  "homepage": "http://rochebrune2016.fr",
+  "authors": [
+    "Guilhelm SAVIN <guilhelm.savin@litislab.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "graphstream"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
